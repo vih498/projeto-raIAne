@@ -1,4 +1,4 @@
-# Projeto SofIA - Configuração Local
+# Projeto raIAne - Configuração Local
 
 ---
 
@@ -33,4 +33,5 @@ pip install streamlit langchain openai pandas PyPDF2 faiss-cpu tiktoken
 pip freeze > requirements.txt
 
 ## 5. Rodar o projeto
+
 streamlit run app.py
